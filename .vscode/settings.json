@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "spectrum.C": "cpp",
+        "Analysis.C": "cpp",
+        "h2g.C": "cpp",
+        "building.C": "cpp"
+    },
+    "terminal.integrated.drawBoldTextInBrightColors": true,
+    "editor.fontSize": 20
+}

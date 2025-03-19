@@ -1,0 +1,4 @@
+/home/rohit/NaI_Scint/build/CMakeFiles/NaI.dir
+/home/rohit/NaI_Scint/build/CMakeFiles/simulation.dir
+/home/rohit/NaI_Scint/build/CMakeFiles/edit_cache.dir
+/home/rohit/NaI_Scint/build/CMakeFiles/rebuild_cache.dir

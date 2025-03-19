@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "histogram.C": "cpp",
+        "Analysis.C": "cpp",
+        "spectrum.C": "cpp",
+        "peaks.C": "cpp"
+    }
+}
